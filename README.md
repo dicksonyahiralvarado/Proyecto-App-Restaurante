@@ -1,6 +1,6 @@
 # Kit de interfaz de usuario de la aplicación Restaurante en Flutter
 
-Creamos el kit de interfaz de usuario de la aplicación Restaurante para ayudarlo a crear una aplicación limpia y agradable para restaurantes usando flutter que se ejecuta tanto en Android como en iOS. Este kit viene con 25 pantallas estéticamente diseñadas y una abundante porción de componentes deliciosamente receptivos. Además, tenemos carga de esqueleto y tenemos componentes separados tanto para Android como para iOS para que sientas la experiencia nativa.
+Diseñamos el kit de interfaz de usuario para la aplicación de Restaurante con el propósito de facilitar la creación de una aplicación atractiva y funcional para restaurantes, utilizando Flutter para garantizar su compatibilidad con Android e iOS. Este kit incluye 25 pantallas estéticamente diseñadas y una amplia variedad de componentes altamente receptivos. Además, ofrecemos carga de esqueleto y componentes individuales específicos para cada plataforma, lo que proporciona una experiencia de usuario nativa completa.
 
 ## Screenshots
 
