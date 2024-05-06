@@ -6,4 +6,3 @@ Creamos el kit de interfaz de usuario de la aplicación Restaurante para ayudarl
 
 ![All pages](/preview.png)
 
-![Preview](/foodly_thun.png)
